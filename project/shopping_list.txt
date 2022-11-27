@@ -9,4 +9,5 @@ Shopping
 - milk
 - eggs
 - cheese
-- bread
+- rye bread
+- minced meat
